@@ -5,4 +5,6 @@ Image name is **justartt**, AMI ID: **ami-e5c40af3** in the **US East (N. Virgin
 
 There is great tutorial - how to run image: http://cs231n.github.io/aws-tutorial/
 
+Why p2.xlarge? 
 
+![alt text](https://github.com/just4art/AWS_for_ML-NN-/blob/master/aws_p2_instances.PNG "AWS p2 instances")
