@@ -1,16 +1,15 @@
 
 BASIC
 
-```bash
 sudo apt-get update
 sudo apt-get install openjdk-8-jdk git python-dev python-numpy build-essential python-pip python-virtualenv swig python-wheel libcurl3-dev
-```
+
 
 NVIDIA
 
-`sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo add-apt-repository ppa:graphics-drivers/ppa
 sudo apt update
-sudo apt-get install nvidia-378`
+sudo apt-get install nvidia-378
 
 CUDA
 
